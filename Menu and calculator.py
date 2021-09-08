@@ -53,3 +53,4 @@ if a == '-' and b == '2':
 if a == '-' and b == '3':
     print('\n1Coca Cola only\nTotal: Rp ' + str(y))
 
+print(input())
